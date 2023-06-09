@@ -1,0 +1,11 @@
+.containerOrganization{
+    display: flex;
+flex-flow: row wrap;
+    justify-content: space-between;
+
+}
+.containerorgaImg{
+    width: 200px;
+    height: 50px;
+    background-color: blue;
+}

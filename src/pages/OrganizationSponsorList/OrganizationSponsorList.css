@@ -1,0 +1,6 @@
+.containerOrgaSponsord{
+    width:500px;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+}

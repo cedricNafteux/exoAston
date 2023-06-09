@@ -1,0 +1,14 @@
+.containerPubSponsord{
+    background-color: aliceblue;
+    width: 700px;
+    height:50px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.containerPubSponsord button{
+    width: 100px;
+    height:30px;
+}
